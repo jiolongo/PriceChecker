@@ -1,10 +1,9 @@
-# Project Title
 # Price Checker
-Simple overview of use/purpose.
+I created this system to help our sari-sari store to easily know the price of the product we sell
 
-## Description
+## Admin Side only
 
-An in-depth paragraph about your project and overview of use.
+Created in HTML/CSS - BOOTSTRAP/JAVASCRIPT - JQUERY/PHP/MYSQL.
 
 ## Getting Started
 
